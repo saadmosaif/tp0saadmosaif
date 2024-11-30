@@ -17,6 +17,7 @@ public class Utilisateur {
     }
 
     public String direHello() {
-        return "hello";
+        return "Salut, " + nom + "!";
     }
+
 }
