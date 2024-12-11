@@ -1,7 +1,6 @@
 package ma.emsi.saadmosaif.tp0saadmosaif;
 
 import java.io.*;
-
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
